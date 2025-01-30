@@ -59,7 +59,7 @@ return [
             'page-title'                  => 'Become User',
             'password'                    => 'Password',
             'sign-in-button'              => 'Sign In',
-            'subscribe-to-newsletter'     => 'Subscribe to newsletter',
+            'subscribe-to-newsletter'     => 'Subscribe to our other Services',
             'success'                     => 'Account created successfully.',
             'success-verify'              => 'Account created successfully, an e-mail has been sent for verification.',
             'success-verify-email-unsent' => 'Account created successfully, but verification e-mail unsent.',
@@ -108,7 +108,7 @@ return [
                     'other'                   => 'Other',
                     'phone'                   => 'Phone',
                     'save'                    => 'Save',
-                    'subscribe-to-newsletter' => 'Subscribe to newsletter',
+                    'subscribe-to-newsletter' => 'Subscribe to our other Services',
                 ],
             ],
 
