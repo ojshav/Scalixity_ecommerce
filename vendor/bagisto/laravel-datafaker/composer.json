@@ -1,0 +1,36 @@
+{
+    "name": "bagisto/laravel-datafaker",
+    "description": "Create fake customers, categories and products in Bagisto.",
+    "keywords": [
+        "bagisto",
+        "fake products",
+        "fake customers",
+        "fake categories"
+    ],
+    "homepage": "https://github.com/bagisto/laravel-data-faker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bagisto Data Faker",
+            "email": "support@bagisto.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Webkul\\Faker\\": "src"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Webkul\\Faker\\Providers\\FakerServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

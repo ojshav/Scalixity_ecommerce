@@ -23,6 +23,6 @@ package-lock.json
 /lang/vendor
 /storage/*.key
 /storage/dcc-data/
-/vendor
+
 yarn.lock
 yarn-error.log
