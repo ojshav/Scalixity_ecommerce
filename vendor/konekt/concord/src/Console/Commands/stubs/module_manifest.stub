@@ -1,6 +1,0 @@
-<?php
-
-return [
-    'name'    => 'DummyName',
-    'version' => '0.1.0'
-];
